@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Other files and directories to ignore
+# Add other files/directories as needed
